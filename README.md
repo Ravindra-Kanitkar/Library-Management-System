@@ -1,7 +1,3 @@
-# Hello Anup sir, I am Ravindra and I have completed the task which was given by kewordio on library management system.
-# Though there might be some flaws, could be more. But, that’s what I will be learning from kewordio to minimize it.
-## I would love to join the company and work with such talented people.
-
 —
 
 App Name : Library Management System
